@@ -10,7 +10,7 @@
       <div class="card-text bg-white p-1">
         {{ p.description }}
         <button class="btn btn-success btn-sm float-right">
-          Add to cart
+          Add to Cart
         </button>
       </div>
     </div>
